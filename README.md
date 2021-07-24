@@ -1,6 +1,9 @@
-Hey there! My name's Iván, I'm Software Architect with lot of love JavaScript and NodeJS ❤️. I currently work as a Digital Operations Manager at [WarnerMedia](https://www.warnermedia.com). For the last ten years, I've worked in different industries: from streaming services to the biggest e-commerce platforms in Latin America. Also I'm a volunteer for initiatives related to education and more women in tech. I enjoy to be centered on producing beautiful interfaces and experiences for millions of consumers.
+# 👋  Hey, I'm Iván Olivares Rojas
 
-Follow me on [Twitter](https://twitter.com/ivolivares), you can find other social networks on [my personal website](https://iolivares.com/).
+I'm a Software Architect living in Santiago, Chile. I currently work as Digital Operations Manager at [WarnerMedia](https://www.warnermedia.com) where I work on support streaming products, previously I worked at Globant.
 
+In my free time, I like to help others to be part of technology through mentorship or speaking on meetups/conferences events to help to the new generations to learn together about technology.
 
-🔭 I’m currently working on my blog, building it in [NextJS 10](https://nextjs.org/blog/next-10) + [DatoCMS](https://www.datocms.com/) (GraphQL based) to start share my thoughts in technology.
+I mainly work with JavaScript, mostly with Next.js but I am passionate about Node.js and backend technologies as well.
+
+Follow me on [Twitter](https://twitter.com/ivolivares) to know more or you can find me on [my personal website](https://iolivares.com/).
