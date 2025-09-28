@@ -1,9 +1,11 @@
-# 👋  Hey, I'm Iván Olivares Rojas
+# 👋  Hey, I'm Iván Olivares — a senior software engineer, vinyl enthusiast, and dog dad.
 
-I'm a Software Developer living in Santiago de Chile. I currently work as a Tech Director at [Globant](https://www.globant.com) where I lead and manage engineering teams, previously I worked for [WarnerMedia](https://www.warnermedia.com) in the streaming, media and entertainment industry.
+I'm currently working as a Tech Director at [Globant](https://www.globant.com/?from=github.com/ivolivares), based in Santiago, Chile. I also enjoy sharing my knowledge and insights with the community through articles and [talks](https://iolivares.com/?from=github.com/ivolivares).
 
-In my free time, I like to help others to be part of technology through mentorship or [speaking on meetups/conferences events](https://iolivares.com/talks) to help to the new generations to learn together about technology.
+I started in the development world in 2004, experimenting with computers (often breaking things) and learning to program by researching online. At just 15, I built my first website — and never stopped. In 2010, I launched my first entrepreneurial venture with my first clients, and fell even more in love with technology.
 
-I mainly work with JavaScript, mostly with Next.js but I am passionate about Node.js and backend technologies as well.
+My personal mission is to push the world forward by building bridges between people and technology.
 
-Follow me on [Twitter](https://twitter.com/ivolivares) to know more or you can read me on [iolivares.com/blog](https://iolivares.com/blog).
+`~~~`
+
+If you'd like to chat about building products, development, consulting, or software design, get in touch at [iolivares.com/connect](https://iolivares.com/connect?from=github.com/ivolivares) or reach out to me on [Twitter][https://twitter.com/ivolivares](https://x.com/intent/follow?screen_name=ivolivares&from=github.com/ivolivares).
