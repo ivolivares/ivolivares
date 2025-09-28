@@ -8,4 +8,4 @@ My personal mission is to push the world forward by building bridges between peo
 
 `~~~`
 
-If you'd like to chat about building products, development, consulting, or software design, get in touch at [iolivares.com/connect](https://iolivares.com/connect?from=github.com/ivolivares) or reach out to me on [Twitter][https://twitter.com/ivolivares](https://x.com/intent/follow?screen_name=ivolivares&from=github.com/ivolivares).
+If you'd like to chat about building products, development, consulting, or software design, get in touch at [iolivares.com/connect](https://iolivares.com/connect?from=github.com/ivolivares) or reach out to me on [Twitter](https://x.com/intent/follow?screen_name=ivolivares&from=github.com/ivolivares).
